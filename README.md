@@ -1,3 +1,3 @@
 # AdultCensusDataAnalysis
 
-Another great dataset on UCI containing data for adult population of the US of A in 1994. Though the data set is old, we can compare how the population is today vs how it was almost 30 years back!
+Exploring classification algorithms using the UCI adult census dataset from 1996.
